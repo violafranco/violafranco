@@ -2,7 +2,6 @@
 
 > Un desarrollador FrontEnd que es apasionado por la programación💻, en mis repositorios podrás ver todos mis proyectos hasta el momento😄. Las tecnologias que manejo hasta la actualidad son HTML, CSS, SASS, JS y React
 
-🌱 Me encuentro aprendiendo **Redux**
 
 📫 Podes enviarme un email a **francoviolaok@gmail.com**
 
